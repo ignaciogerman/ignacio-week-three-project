@@ -2,8 +2,8 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background: #1e1e30;
-    color: white;
+    background: #3d7c70;
+    color: rgb(8, 8, 8);
     text-align: center;
 }
 
@@ -41,8 +41,8 @@ h1 {
     position: relative;
     width: 100px;
     height: 120px;
-    background: #343650;
-    color: #ff4c72;
+    background: #5a8295;
+    color: #35020d;
     font-size: 48px;
     font-weight: bold;
     display: flex;
