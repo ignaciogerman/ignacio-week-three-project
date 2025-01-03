@@ -1,5 +1,5 @@
 // Set the launch date
-const launchDate = new Date("December 31, 2024 00:00:00").getTime();
+const launchDate = new Date("December 31, 2025 00:00:00").getTime();
 
 // Function to update the countdown
 function updateCountdown() {
